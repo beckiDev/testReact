@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "0.0.1",
+  "description": "testReactFramework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beckiDev/testReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Becki Arieli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beckiDev/testReact/issues"
+  },
+  "homepage": "https://github.com/beckiDev/testReact#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}

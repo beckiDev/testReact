@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "0.0.1",
+  "authors": [
+    "beckiDev <beckidev@gmail.com>"
+  ],
+  "description": "test react",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ]
+}
